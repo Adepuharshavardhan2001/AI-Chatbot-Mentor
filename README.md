@@ -23,7 +23,6 @@ This application introduces **domain-restricted AI mentoring**, where the chatbo
   - Power BI
   - Exploratory Data Analysis (EDA)
   - Machine Learning (ML)
-  - Deep Learning (DL)
   - Generative AI (Gen AI)
   - Agentic AI
 - Interactive chat-based interface
